@@ -71,12 +71,6 @@ jupyter lab
 
 ---
 
-## 🤝 Contribuição
-
-Contribuições são bem-vindas. Para sugerir melhorias, crie um fork e envie um pull request.
-
----
-
 ## 📜 Licença
 
 Este projeto está sob a licença MIT.
