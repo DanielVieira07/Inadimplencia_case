@@ -48,9 +48,9 @@ inadimplencia_case/
 - **Modelo final:** Random Forest Classifier
 - **Acurácia:** 89%
 - **Precision (inadimplentes):** 75%
-- **Recall (inadimplentes):** 95%
+- **Recall (inadimplentes):** 96%
 - **Conclusão:**  
-  O modelo é altamente eficiente para detectar inadimplentes reais (recall = 95%) e confiável para aprovar adimplentes (precision = 98%).  
+  O modelo é altamente eficiente para detectar inadimplentes reais (recall = 96%) e confiável para aprovar adimplentes (precision = 98%).  
   A aplicação estratégica do modelo pode **reduzir a inadimplência estimada de 35% para abaixo de 25%**, quando integrado a uma política de crédito baseada em risco.
 
 ---
