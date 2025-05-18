@@ -15,7 +15,7 @@ __pycache__/
 
 # Ambientes virtuais e variáveis sensíveis
 .venv/
-.env/
+.env
 venv/
 
 # Editor e sistema
