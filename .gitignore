@@ -1,0 +1,30 @@
+# Notebooks e checkpoints
+.ipynb_checkpoints/
+
+# Dados
+data/raw/
+data/processed/
+*.csv
+
+# Modelos salvos
+*.pkl
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Ambientes virtuais e variáveis sensíveis
+.venv/
+.env/
+venv/
+
+# Editor e sistema
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Relatórios e figuras
+reports/figures/
+
+# Logs
+*.log

@@ -1,0 +1,24 @@
+# Manipulação de dados
+pandas
+numpy
+
+# Acesso ao PostgreSQL
+psycopg2-binary
+
+# Visualização
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+xgboost
+
+# Explicabilidade de modelos
+shap
+
+# Ambiente Jupyter
+jupyterlab
+notebook
+
+# Conexão com o Banco de Dados
+python-dotenv
