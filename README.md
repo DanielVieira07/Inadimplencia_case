@@ -23,7 +23,7 @@ inadimplencia_case/
 ├── reports/
 │   └── figures/       # Gráficos gerados para análise
 │
-├── src/               # Código fonte modular (data_processing, modeling, evaluation)
+├── src/               # Código fonte modular (data_processing, modeling, evaluation, DB_connection)
 │
 ├── .env               # Variáveis de ambiente (se necessário)
 ├── .gitignore         # Arquivos ignorados pelo Git
